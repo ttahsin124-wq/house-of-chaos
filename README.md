@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
