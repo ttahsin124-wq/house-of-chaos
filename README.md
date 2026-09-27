@@ -76,4 +76,8 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
