@@ -16,6 +16,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
