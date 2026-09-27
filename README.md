@@ -18,6 +18,7 @@
 | [0050-powx-n](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
