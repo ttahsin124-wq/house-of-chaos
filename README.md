@@ -64,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
@@ -77,6 +78,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -91,6 +93,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
