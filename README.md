@@ -27,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
@@ -61,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
@@ -122,9 +124,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0011-container-with-most-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
