@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
 ## Segment Tree
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +132,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -137,4 +141,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
