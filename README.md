@@ -74,6 +74,7 @@
 | [0013-roman-to-integer](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0168-excel-sheet-column-title) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
@@ -163,4 +165,20 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
