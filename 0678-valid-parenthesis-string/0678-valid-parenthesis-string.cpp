@@ -19,7 +19,6 @@ public:
             }
             else
             {
-                // '*'
                 low--;
                 high++;
             }
