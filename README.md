@@ -111,6 +111,7 @@
 | [0020-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -225,4 +226,16 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2333-minimum-sum-of-squared-difference) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
