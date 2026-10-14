@@ -33,6 +33,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -190,6 +191,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Manacher
 |  |
