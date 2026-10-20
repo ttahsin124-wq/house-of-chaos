@@ -24,6 +24,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
