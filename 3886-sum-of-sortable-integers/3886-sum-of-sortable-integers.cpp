@@ -35,7 +35,6 @@ public:
                     break;
                 }
 
-                // Check the boundary between consecutive blocks.
                 if (i > 0 && prevMax > mn) {
                     ok = false;
                     break;
