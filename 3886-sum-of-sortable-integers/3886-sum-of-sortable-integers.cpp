@@ -24,8 +24,6 @@ public:
                         descents++;
                     }
                 }
-
-                // Check the circular order of this block.
                 if (k > 1 && nums[i + k - 1] > nums[i]) {
                     descents++;
                 }
