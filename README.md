@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
+| [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0094-binary-tree-inorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +278,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
