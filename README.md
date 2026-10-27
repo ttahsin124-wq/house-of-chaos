@@ -105,6 +105,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0856-score-of-parentheses) |
@@ -208,6 +209,7 @@
 | [0011-container-with-most-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
