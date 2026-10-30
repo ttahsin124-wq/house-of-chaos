@@ -72,6 +72,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -111,6 +112,7 @@
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0168-excel-sheet-column-title) |
+| [0383-ransom-note](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
