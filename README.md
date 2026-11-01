@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -40,6 +41,7 @@
 | [0069-sqrtx](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0168-excel-sheet-column-title) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
