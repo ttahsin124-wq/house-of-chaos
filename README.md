@@ -13,6 +13,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -54,6 +55,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0168-excel-sheet-column-title) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -75,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
